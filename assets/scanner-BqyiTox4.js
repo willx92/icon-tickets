@@ -15,8 +15,8 @@ import{s as T,i as o,_ as w}from"./index-VXVlpNRX.js";import{a as y,e as i,l as 
         </div>
         <aside class="scan-side">
           <section class="scan-event-slip"><span>${i(a?.code||"")}</span><div><p class="kicker">SELECTED EVENT</p><h2 data-selected-event>${i(a?.name||"")}</h2><p>${a?i(k(a.startsAt)):""}<br>${i(a?.venue||"")}</p></div></section>
-          <section class="manual-scan"><p class="kicker">CAMERA WON’T READ IT?</p><h2>Enter the printed number.</h2><form data-manual-scan><label>Ticket number<input name="ticket" autocomplete="off" autocapitalize="characters" placeholder="4SHC26-REG-XXXX-XXXX" required></label><button class="button button--ink button--wide" type="submit">Check ticket ${o("arrow")}</button></form>
-          </section>
+          <section class="manual-scan"><p class="kicker">CAMERA WON’T READ IT?</p><h2>Enter the printed number.</h2><form data-manual-scan><label>Ticket number<input name="ticket" autocomplete="off" autocapitalize="characters" placeholder="LAD26-VIP-7K9M-4Q2P" required></label><button class="button button--ink button--wide" type="submit">Check ticket ${o("arrow")}</button></form>
+          <div class="test-ticket"><span>VALID DEMO TICKET</span><button type="button" data-use-demo>LAD26-VIP-7K9M-4Q2P</button><small>Choose the 4TH STREET HOMECOMING CONCERT before testing.</small></div></section>
         </aside>
       </section>
       <div class="scan-result-layer" data-scan-result hidden></div>
