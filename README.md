@@ -41,21 +41,9 @@ ICON-TICKETS/
 └── README.md
 ```
 
-> The repository contains the deployment-ready build of the application.
+> The repository contains the demo build of the application.
 
-## Live Demo
 
-Add your deployed project URL here after publishing the project with GitHub Pages or another hosting service.
-
-## Screenshots
-
-Add screenshots of the homepage, event catalogue, event details page and admin dashboard here.
-
-Example:
-
-```markdown
-![ICON TICKETS Homepage](screenshots/homepage.png)
-```
 
 ## Development Focus
 
@@ -82,8 +70,8 @@ Potential future improvements include:
 
 ## Author
 
-**[Your Name]**
+**Williams Achichi**
 
 Web Developer | HTML • CSS • JavaScript
 
-GitHub: [Your GitHub Profile]
+GitHub: @willx92
